@@ -1,2 +1,10 @@
-# KAGGLE_Forecasting_Challenge
-Work done for the store item demand forecasting competition on Kaggle.
+# KAGGLE Competition: Store Item Demand Forecasting
+
+
+## Purpose and Introduction
+
+## File Descriptions
+
+## Methods for Data Cleaning and Feature Engineering
+
+## Methods for Forecasting
